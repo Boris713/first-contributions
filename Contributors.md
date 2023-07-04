@@ -15,6 +15,7 @@
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
 - [Robert Garofalo](https://github.com/robertgarofalo)
+- [Boris Hernandez](https://github.com/Boris713)
 - [Fernando Adames](https://github.com/FernandoAdames)
 - [Rimma Kubanova](https://github.com/rimma-kubanova)
 - [Viraj Rai](https://github.com/viruop)
